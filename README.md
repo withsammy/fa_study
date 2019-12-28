@@ -39,4 +39,4 @@
 
 ### 다이나믹 프로그래밍 
 - [1로 만들기](https://www.acmicpc.net/problem/1463 )
-- [2×n 타일링] (https://www.acmicpc.net/problem/11726)
+- [2×n 타일링](https://www.acmicpc.net/problem/11726)
