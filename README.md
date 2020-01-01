@@ -39,7 +39,7 @@
 
 ### 그래프와 BFS
 - [ABCDE](https://www.acmicpc.net/problem/13023)
-- [DFS와 BFS] (https://www.acmicpc.net/problem/1260)
+- [DFS와 BFS](https://www.acmicpc.net/problem/1260)
 - 연결 요소
 - 이분 그래프
 - 단지번호붙이기
@@ -54,12 +54,12 @@
 - 탈출
 
 ### 다이나믹 프로그래밍 
-- [1로 만들기](https://www.acmicpc.net/problem/1463 )
-- [2×n 타일링](https://www.acmicpc.net/problem/11726)
-- 2×n 타일링 2
-- 1, 2, 3 더하기
+- :white_check_mark:[1로 만들기](https://www.acmicpc.net/problem/1463 )
+- :white_check_mark:[2×n 타일링](https://www.acmicpc.net/problem/11726)
+- :white_check_mark:2×n 타일링 2
+- :white_check_mark:1, 2, 3 더하기
 - 1, 2, 3 더하기 3
-- 카드 구매하기
+- :white_check_mark:카드 구매하기
 - 카드 구매하기 2
 - 1, 2, 3 더하기 5
 - 쉬운 계단 수
