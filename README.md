@@ -10,9 +10,11 @@
 | 1/5 일요일 점심  |  수학, 브루트포스 |   |
 |   |   |   |
 |   |   |   |
+
+
 ## 문제풀이 
 ### 수학
-- 나머지  :white_check_mark:
+- 나머지  
 - 최대공약수와 최소공배수
 - 최소공배수
 - GCD 합
@@ -54,10 +56,10 @@
 - 탈출
 
 ### 다이나믹 프로그래밍 
-- :white_check_mark:[1로 만들기](https://www.acmicpc.net/problem/1463 )
-- :white_check_mark:[2×n 타일링](https://www.acmicpc.net/problem/11726)
-- :white_check_mark:2×n 타일링 2
-- :white_check_mark:1, 2, 3 더하기
+- [1로 만들기](https://www.acmicpc.net/problem/1463 )
+- [2×n 타일링](https://www.acmicpc.net/problem/11726)
+- 2×n 타일링 2
+- 1, 2, 3 더하기
 - 1, 2, 3 더하기 3
 - :white_check_mark:카드 구매하기
 - 카드 구매하기 2
