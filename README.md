@@ -40,7 +40,7 @@
 ### 그래프와 BFS
 - [ABCDE](https://www.acmicpc.net/problem/13023)
 - [DFS와 BFS](https://www.acmicpc.net/problem/1260)
-- 연결 요소
+- [연결 요소]https://www.acmicpc.net/problem/11724
 - 이분 그래프
 - 단지번호붙이기
 - 섬의 개수
